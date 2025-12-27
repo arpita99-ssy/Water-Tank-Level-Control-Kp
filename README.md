@@ -1,5 +1,3 @@
-# Water-Tank-Level-Control-Kp
-Simulation of water tank level control using proportional controller (Kp)
 # Water Tank Level Control using Kp Controller
 
 This project demonstrates a **water tank level control system**
