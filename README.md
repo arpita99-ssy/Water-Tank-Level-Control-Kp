@@ -23,6 +23,11 @@ Original simulation code by **Mark Misin Engineering**.
 This repository is used **strictly for learning, simulation, and academic purposes**.
 The original copyright notice is retained.
 
+## My Contributions
+- Modified controller parameters
+- Implemented PID control logic
+- Analyzed system response
+
 ## How to Run
 ```bash
 python calculus_sim_waterTanks_Kp_controller.py
