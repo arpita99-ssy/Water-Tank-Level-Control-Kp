@@ -27,7 +27,3 @@ The original copyright notice is retained.
 - Modified controller parameters
 - Implemented PID control logic
 - Analyzed system response
-
-## How to Run
-```bash
-python calculus_sim_waterTanks_Kp_controller.py
